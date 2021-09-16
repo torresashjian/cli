@@ -1,4 +1,4 @@
-module github.com/project-flogo/cli
+module github.com/torresashjian/cli
 
 go 1.17
 

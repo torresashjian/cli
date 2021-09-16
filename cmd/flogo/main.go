@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/project-flogo/cli/commands"
-	"github.com/project-flogo/cli/util"
+	"github.com/torresashjian/cli/commands"
+	"github.com/torresashjian/cli/util"
 )
 
 // Not set by default, will be filled by init() function in "./currentversion.go" file, if it exists.

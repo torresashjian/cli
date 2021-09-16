@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	cliPackage = "github.com/project-flogo/cli"
+	cliPackage = "github.com/torresashjian/cli"
 )
 
 func GetCLIInfo() (string, string, error) {

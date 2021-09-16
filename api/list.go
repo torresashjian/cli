@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/project-flogo/cli/common"
-	"github.com/project-flogo/cli/util"
+	"github.com/torresashjian/cli/common"
+	"github.com/torresashjian/cli/util"
 )
 
 type ListFilter int

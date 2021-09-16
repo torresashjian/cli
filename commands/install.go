@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/project-flogo/cli/api"
-	"github.com/project-flogo/cli/common"
+	"github.com/torresashjian/cli/api"
+	"github.com/torresashjian/cli/common"
 	"github.com/spf13/cobra"
 )
 

@@ -1,7 +1,7 @@
 package common
 
 import (
-	"github.com/project-flogo/cli/util"
+	"github.com/torresashjian/cli/util"
 )
 
 var verbose = false

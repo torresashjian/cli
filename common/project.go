@@ -1,6 +1,6 @@
 package common
 
-import "github.com/project-flogo/cli/util"
+import "github.com/torresashjian/cli/util"
 
 type AppProject interface {
 	Validate() error
